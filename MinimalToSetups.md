@@ -33,7 +33,7 @@ There are no specific instructions and requirements here. But note:
 
   * Add more disk space as needed, but consider that media files are typically stored on cloud services (i.e. Amazon S3). So no reason to use the petabyte SAN
 
-  * It's not necessary to do anything too special. Defaults are fine.
+  * It's not necessary to do anything special. Defaults are fine.
 
   * Finish installation, remove installation media (if necessary), reboot, log in as root then continue with the next step below.
 

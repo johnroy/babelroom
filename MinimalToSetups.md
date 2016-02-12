@@ -49,7 +49,7 @@ The scripts for this phase will automatically adjust _/etc/sysconfig/network-scr
 ## From Bare Install ##
   * obtain _from\_minimal.sh_ and run it
 ```
-$ curl https://raw.github.com/babelroom/clouds/master/clouds/from_minimal.sh >./from_minimal.sh
+$ curl https://raw.githubusercontent.com/babelroom/clouds/master/clouds/from_minimal.sh >./from_minimal.sh
 $ sh ./from_minimal.sh
 ```
 
